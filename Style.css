@@ -1,0 +1,16 @@
+/* Button Styles */
+.btn {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.8rem 1.5rem;
+  background: navy;
+  color: #fff;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.3s, transform 0.2s;
+}
+.btn:hover {
+  background: #3a4e8c;
+  transform: translateY(-3px);
+}
